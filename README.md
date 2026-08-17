@@ -36,10 +36,11 @@ OpenCore version reported by NVRAM:
 - Brightness control
 - NVMe storage
 - USB
-Sleep
+- Sleep
 
 ## Known issues
 
+- Bluetooth does not work
 - NVIDIA GTX 1650 is not supported by macOS and is disabled
 - Wi-Fi requires itlwm / HeliPort depending on configuration
 - Some Apple services may require valid SMBIOS data
