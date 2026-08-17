@@ -29,9 +29,7 @@ OpenCore version reported by NVRAM:
 - macOS boot
 - Intel UHD 630 graphics acceleration
 - Internal keyboard
-- Trackpad
 - Wi-Fi using itlwm
-- Intel Bluetooth
 - Ethernet
 - Audio
 - Battery status
