@@ -36,11 +36,11 @@ OpenCore version reported by NVRAM:
 - Brightness control
 - NVMe storage
 - USB
+Sleep
 
 ## Known issues
 
 - NVIDIA GTX 1650 is not supported by macOS and is disabled
-- Sleep may not work correctly on all configurations
 - Wi-Fi requires itlwm / HeliPort depending on configuration
 - Some Apple services may require valid SMBIOS data
 
